@@ -1,8 +1,9 @@
 <?php
 //链接数据库
-$host = 'localhost';
+$host = '134.175.82.125';
 $username = 'root';
-$password = '';
+$password = 'root';
+$port = '3306';
 $database = 'zvuldrill';
 $dbc = mysqli_connect($host, $username, $password, $database);
 if (!$dbc)
