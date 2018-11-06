@@ -13,13 +13,13 @@ return [
     // 数据库类型
     'type'            => 'mysql',
     // 服务器地址
-    'hostname'        => '134.175.80.128',
+    'hostname'        => '134.175.80.199',
     // 数据库名
-    'database'        => 'thinkphp',
+    'database'        => 'vulDrill',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'test@tencent.com',
     // 密码
-    'password'        => '123456778',
+    'password'        => 'tenCent.tt',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
